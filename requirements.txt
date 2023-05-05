@@ -7,4 +7,4 @@ scipy>=1.10.1
 scikit-learn>=1.2.1
 matplotlib>=3.7.1
 pandas>=2.0.1
-
+pickle>=0.0.1
